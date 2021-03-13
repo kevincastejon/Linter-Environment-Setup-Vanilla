@@ -28,6 +28,7 @@ module.exports = {
     "prefer-arrow-callback": "off",
     "func-names": "off",
     "space-before-function-paren": "off",
+    "space-before-blocks": "off",
     "no-empty": "warn",
     "no-unused-vars": "warn",
     "quotes": "warn",
