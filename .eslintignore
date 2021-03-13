@@ -1,0 +1,7 @@
+.eslintignore
+.eslintrc.js
+**/*.html
+**/*.css
+**/*.bat
+**/*.json
+**/*.md
