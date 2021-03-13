@@ -20,7 +20,6 @@ module.exports = {
     "no-plusplus": "off",
     "no-empty": "warn",
     "vars-on-top": "off",
-    "no-unused-vars": "off",
     "comma-dangle": "off",
     "no-multiple-empty-lines": "off",
     "padded-blocks": "off",
