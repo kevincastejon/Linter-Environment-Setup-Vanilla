@@ -29,6 +29,7 @@ module.exports = {
     "func-names": "off",
     "space-before-function-paren": "off",
     "space-before-blocks": "off",
+    "space-infix-ops": "off",
     "no-empty": "warn",
     "no-unused-vars": "warn",
     "quotes": "warn",
