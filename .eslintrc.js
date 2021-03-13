@@ -19,6 +19,8 @@ module.exports = {
     "eol-last": "off",
     "no-plusplus": "off",
     "no-empty": "warn",
-    "vars-on-top": "off"
+    "vars-on-top": "off",
+    "no-unused-vars": "off",
+    "comma-dangle": "off",
   },
 };
