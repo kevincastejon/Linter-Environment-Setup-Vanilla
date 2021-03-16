@@ -37,5 +37,6 @@ module.exports = {
     "no-unused-vars": "warn",
     "quotes": "warn",
     "max-len": "warn",
+    "no-else-return": "warn",
   },
 };
