@@ -31,8 +31,11 @@ module.exports = {
     "space-before-blocks": "off",
     "space-infix-ops": "off",
     "operator-linebreak": "off",
+    "no-multi-spaces": "off",
+    "brace-style": "off",
     "no-empty": "warn",
     "no-unused-vars": "warn",
     "quotes": "warn",
+    "max-len": "warn",
   },
 };
