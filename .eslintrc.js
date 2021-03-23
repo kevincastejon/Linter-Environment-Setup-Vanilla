@@ -34,6 +34,7 @@ module.exports = {
     "no-multi-spaces": "off",
     "brace-style": "off",
     "indent": "off",
+    "no-alert": "off",
     "no-empty": "warn",
     "no-unused-vars": "warn",
     "quotes": "warn",
