@@ -35,6 +35,7 @@ module.exports = {
     "brace-style": "off",
     "indent": "off",
     "no-alert": "off",
+    "prefer-template": "off",
     "no-empty": "warn",
     "no-unused-vars": "warn",
     "quotes": "warn",
